@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tsaweb2024/static/css/main.49208fe2.css",
+    "main.js": "/tsaweb2024/static/js/main.0a15e5d1.js",
+    "index.html": "/tsaweb2024/index.html",
+    "main.49208fe2.css.map": "/tsaweb2024/static/css/main.49208fe2.css.map",
+    "main.0a15e5d1.js.map": "/tsaweb2024/static/js/main.0a15e5d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49208fe2.css",
+    "static/js/main.0a15e5d1.js"
+  ]
+}

@@ -1,0 +1,178 @@
+[
+    {
+        "id": 4,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "poster": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_SY679_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 5,
+        "title": "The Godfather",
+        "year": 1972,
+        "director": "Francis Ford Coppola",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 6,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "poster": "https://m.media-amazon.com/images/S/pv-target-images/e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 7,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "director": "Quentin Tarantino",
+        "poster": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-18853-20140521-pulpfiction-x1800-1400688719.jpg?w=1600&h=900&crop=1",
+        "isFavorite": false
+    },
+    {
+        "id": 8,
+        "title": "Fight Club",
+        "year": 1999,
+        "director": "David Fincher",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 9,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "director": "Robert Zemeckis",
+        "poster": "https://m.media-amazon.com/images/I/51fGgSB4xlL._AC_SY679_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 10,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "director": "Peter Jackson",
+        "poster": "https://musicart.xboxlive.com/7/ee8d5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+        "isFavorite": false
+    },
+    {
+        "id": 11,
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "director": "Sergio Leone",
+        "poster": "https://georgetownvoice.com/wp-content/uploads/2016/10/the-good-the-bad-and-the-ugly-il-buono-il-brutto-il-cattivo.9123.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 12,
+        "title": "The Fight Club",
+        "year": 1999,
+        "director": "David Fincher",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 13,
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "director": "Quentin Tarantino",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 14,
+        "title": "The Matrix Reloaded",
+        "year": 2003,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "poster": "https://static.wikia.nocookie.net/matrix/images/5/5a/The_Matrix_Reloaded_digital_release_cover.jpg/revision/latest?cb=20210908111326",
+        "isFavorite": false
+    },
+    {
+        "id": 15,
+        "title": "The Matrix Revolutions",
+        "year": 2003,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "poster": "https://static.wikia.nocookie.net/matrix/images/b/be/The_Matrix_Revolutions_digital_release_cover.jpg/revision/latest?cb=20210908111503",
+        "isFavorite": false
+    },
+    {
+        "id": 16,
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "director": "Jonathan Demme",
+        "poster": "https://m.media-amazon.com/images/I/51SHYSFNP2L._AC_UF894,1000_QL80_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 17,
+        "title": "Se7en",
+        "year": 1995,
+        "director": "David Fincher",
+        "poster": "https://static.tvtropes.org/pmwiki/pub/images/se7en_poster.png",
+        "isFavorite": false
+    },
+    {
+        "id": 18,
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "director": "Bryan Singer",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/9/9c/Usual_suspects_ver1.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 19,
+        "title": "Gladiator",
+        "year": 2000,
+        "director": "Ridley Scott",
+        "poster": "https://m.media-amazon.com/images/I/51GA6V6VE1L._AC_UF894,1000_QL80_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 20,
+        "title": "The Prestige",
+        "year": 2006,
+        "director": "Christopher Nolan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 21,
+        "title": "Memento",
+        "year": 2000,
+        "director": "Christopher Nolan",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 22,
+        "title": "The Departed",
+        "year": 2006,
+        "director": "Martin Scorsese",
+        "poster": "https://m.media-amazon.com/images/I/81ZOilPKzYL._AC_UF894,1000_QL80_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 23,
+        "title": "Whiplash",
+        "year": 2014,
+        "director": "Damien Chazelle",
+        "poster": "https://musicart.xboxlive.com/7/4eb50e00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+        "isFavorite": false
+    },
+    {
+        "id": 24,
+        "title": "The Green Mile",
+        "year": 1999,
+        "director": "Frank Darabont",
+        "poster": "https://m.media-amazon.com/images/I/71Q6YhYVSKL._AC_UF894,1000_QL80_.jpg",
+        "isFavorite": false
+    },
+    {
+        "id": 25,
+        "title": "The Lion King",
+        "year": 1994,
+        "director": "Roger Allers, Rob Minkoff",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg",
+        "isFavorite": false
+    }
+]
