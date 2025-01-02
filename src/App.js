@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="font-serif">
       <Home/>
+    <h1>hello</h1>
     </div>
 
 
