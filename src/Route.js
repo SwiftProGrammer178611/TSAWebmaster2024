@@ -1,5 +1,6 @@
 // src/Routes.js
 import React from 'react';
+//This BrowserRouter to HashRouter change is important to make it working on gh-pages
 //import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Route, Routes } from 'react-router-dom';
 import { HashRouter as Router } from 'react-router-dom'
