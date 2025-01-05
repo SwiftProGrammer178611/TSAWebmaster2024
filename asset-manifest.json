@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TSAWebmaster2024/static/css/main.49208fe2.css",
-    "main.js": "/TSAWebmaster2024/static/js/main.0a15e5d1.js",
+    "main.js": "/TSAWebmaster2024/static/js/main.2692628d.js",
     "index.html": "/TSAWebmaster2024/index.html",
     "main.49208fe2.css.map": "/TSAWebmaster2024/static/css/main.49208fe2.css.map",
-    "main.0a15e5d1.js.map": "/TSAWebmaster2024/static/js/main.0a15e5d1.js.map"
+    "main.2692628d.js.map": "/TSAWebmaster2024/static/js/main.2692628d.js.map"
   },
   "entrypoints": [
     "static/css/main.49208fe2.css",
-    "static/js/main.0a15e5d1.js"
+    "static/js/main.2692628d.js"
   ]
 }
