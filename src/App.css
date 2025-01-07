@@ -1,0 +1,142 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Mukta+Vaani:wght@400;600&display=swap'); */
+@font-face {
+  font-family: 'Mukta Vaani Thin';
+  src: url('./Mukta_Vaani\,Nanum_Myeongjo\,Roboto/Mukta_Vaani/MuktaVaani-ExtraLight.ttf') format('woff2');
+}
+@font-face {
+  font-family: 'Mukta Vaani';
+  src: url('./Mukta_Vaani\,Nanum_Myeongjo\,Roboto/Mukta_Vaani/MuktaVaani-Regular.ttf') format('woff2');
+}
+
+body,
+html {
+  margin: 0;
+  overflow-x: hidden;
+  background-color: rgb(232, 236, 227);
+  font-family: 'Baskervville', serif;
+  /* Default font for body */
+}
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Dancing+Script&family=Pacifico&family=Playball&family=Playfair+Display&family=Baskervville&display=swap');
+.myHeroContainer {
+
+  overflow: hidden;
+  /* Prevents the image from exceeding the container */
+  position: relative;
+  /* Ensures the positioning context for the absolute child elements */
+
+  width: 100vw;
+  /* Ensures the container is as wide as the viewport */
+  height: 100vh;
+  /* Ensures the container is as tall as the viewport */
+}
+.myHero {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  /* Ensures the image covers the container without distortion */
+}
+.customCarouselSpacing{
+  padding-top: 50%;
+}
+.customStyling{
+  padding: 90px;
+  padding-right: 5%;
+}
+.myWrapper {
+
+  height: 100vh;
+  /* Make it scrollable */
+  width: 100%;
+  perspective: 10px;
+  position: relative;
+}
+.parallax {
+  height: 70%;
+  overflow-x: hidden;
+  perspective: 1px;
+}
+.parallaxMenu{
+  height:100%;
+  overflow-x: hidden;
+  perspective: 1px;
+}
+.parallax-layer {
+  position: absolute;
+  height: 100%;
+}
+.layer1 {
+  transform: translateZ(10);
+}
+.BioImg3 {
+  border-radius: 100px;
+  object-fit: cover;
+  /* Ensures the image covers the area without distortion */
+
+}
+.RecSpace{
+  height:100%;
+}
+.parallax-layer.layer1 {
+
+  width: 100%;
+  
+}
+.parallaxSpacing{
+  width: 80%;
+}
+.darkened {
+  filter: brightness(0.5);
+  /* Adjust this value to darken the card */
+  transition: filter 0.3s ease-in-out;
+}
+.allcards {
+  height: 20vh;
+}
+.containertxt {
+  border-radius: 10px;
+  width: 20%;
+  background-color: rgb(210, 180, 140);
+}
+.bioimg1 {
+  width: 130rem;
+  border-radius: 30px;
+}
+.contbio1 {
+  padding-left: 50px;
+  padding-top: 50px;
+}
+.heroSection2 {
+  width: 500px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: white;
+}
+
+.overlay234 {
+  height: 100vh;
+  background: rgb(117, 166, 138);
+  box-shadow: 0 100px 100px 100px rgb(117, 166, 138);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Baskervville', serif;
+  color: black;
+  padding: 3em;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.content234 {
+  font-family: 'Baskervville', serif;
+  color: #ffffff;
+  transform: translate3d(0, 0, 0);
+  min-height: 100vh;
+  margin: 0 auto;
+  font-size: 1rem;
+  position: relative;
+  z-index: 2;
+}
