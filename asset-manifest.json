@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c16f29ba.css",
+    "main.js": "/static/js/main.deb4539c.js",
+    "static/media/MuktaVaani-Regular.ttf": "/static/media/MuktaVaani-Regular.2098690cc1cd7635d6e9.ttf",
+    "static/media/MuktaVaani-ExtraLight.ttf": "/static/media/MuktaVaani-ExtraLight.5708025652e23f89d121.ttf",
+    "index.html": "/index.html",
+    "main.c16f29ba.css.map": "/static/css/main.c16f29ba.css.map",
+    "main.deb4539c.js.map": "/static/js/main.deb4539c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c16f29ba.css",
+    "static/js/main.deb4539c.js"
+  ]
+}
