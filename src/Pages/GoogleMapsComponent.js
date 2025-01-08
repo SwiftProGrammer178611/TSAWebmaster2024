@@ -14,7 +14,7 @@ const center = {
 function GoogleMapComponent() {
   return (
     <div className="map-container max-w-xl mx-auto my-4 p-4"> {/* Container for the map */}
-      <LoadScript googleMapsApiKey="AIzaSyBZy4jVJBblyT104Rtq-LVGJIymS40gdSs">
+      <LoadScript googleMapsApiKey="">
         <GoogleMap
           mapContainerStyle={containerStyle}
           center={center}
