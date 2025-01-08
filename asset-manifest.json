@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TSAWebmaster2024/static/css/main.e37f744b.css",
-    "main.js": "/TSAWebmaster2024/static/js/main.deb4539c.js",
-    "static/media/MuktaVaani-Regular.ttf": "/TSAWebmaster2024/static/media/MuktaVaani-Regular.2098690cc1cd7635d6e9.ttf",
-    "static/media/MuktaVaani-ExtraLight.ttf": "/TSAWebmaster2024/static/media/MuktaVaani-ExtraLight.5708025652e23f89d121.ttf",
-    "index.html": "/TSAWebmaster2024/index.html",
-    "main.e37f744b.css.map": "/TSAWebmaster2024/static/css/main.e37f744b.css.map",
-    "main.deb4539c.js.map": "/TSAWebmaster2024/static/js/main.deb4539c.js.map"
+    "main.css": "/static/css/main.f12c710c.css",
+    "main.js": "/static/js/main.ba707056.js",
+    "static/media/MuktaVaani-Regular.ttf": "/static/media/MuktaVaani-Regular.2098690cc1cd7635d6e9.ttf",
+    "static/media/MuktaVaani-ExtraLight.ttf": "/static/media/MuktaVaani-ExtraLight.5708025652e23f89d121.ttf",
+    "index.html": "/index.html",
+    "main.f12c710c.css.map": "/static/css/main.f12c710c.css.map",
+    "main.ba707056.js.map": "/static/js/main.ba707056.js.map"
   },
   "entrypoints": [
-    "static/css/main.e37f744b.css",
-    "static/js/main.deb4539c.js"
+    "static/css/main.f12c710c.css",
+    "static/js/main.ba707056.js"
   ]
 }
