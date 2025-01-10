@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TSAWebmaster2024/static/css/main.ae20b385.css",
+    "main.js": "/TSAWebmaster2024/static/js/main.3d0a3eca.js",
+    "static/media/MuktaVaani-Regular.ttf": "/TSAWebmaster2024/static/media/MuktaVaani-Regular.2098690cc1cd7635d6e9.ttf",
+    "static/media/MuktaVaani-ExtraLight.ttf": "/TSAWebmaster2024/static/media/MuktaVaani-ExtraLight.5708025652e23f89d121.ttf",
+    "index.html": "/TSAWebmaster2024/index.html",
+    "main.ae20b385.css.map": "/TSAWebmaster2024/static/css/main.ae20b385.css.map",
+    "main.3d0a3eca.js.map": "/TSAWebmaster2024/static/js/main.3d0a3eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae20b385.css",
+    "static/js/main.3d0a3eca.js"
+  ]
+}
