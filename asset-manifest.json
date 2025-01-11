@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/TSAWebmaster2024/static/css/main.0ef2d717.css",
+    "main.js": "/TSAWebmaster2024/static/js/main.75c99afd.js",
+    "static/media/nicePancakes.jpg": "/TSAWebmaster2024/static/media/nicePancakes.5550bff1a7c9a07d27c9.jpg",
+    "static/media/farmer.jpg": "/TSAWebmaster2024/static/media/farmer.16a36233ec8cf2342334.jpg",
+    "static/media/greekSalad.jpg": "/TSAWebmaster2024/static/media/greekSalad.ba0847f7df9211e0c5aa.jpg",
+    "static/media/falafel.jpg": "/TSAWebmaster2024/static/media/falafel.51f6e3365f1bbfc00a5f.jpg",
+    "static/media/SCC.jpg": "/TSAWebmaster2024/static/media/SCC.3988306b9168889508a2.jpg",
+    "static/media/MuktaVaani-Regular.ttf": "/TSAWebmaster2024/static/media/MuktaVaani-Regular.2098690cc1cd7635d6e9.ttf",
+    "static/media/MuktaVaani-ExtraLight.ttf": "/TSAWebmaster2024/static/media/MuktaVaani-ExtraLight.5708025652e23f89d121.ttf",
+    "static/media/sandwichBLT.jpg": "/TSAWebmaster2024/static/media/sandwichBLT.b1a6274a3a36b076b30c.jpg",
+    "static/media/logoIMG.jpg": "/TSAWebmaster2024/static/media/logoIMG.85240c9baf6bbe15f7e5.jpg",
+    "static/media/lentilSoup.jpg": "/TSAWebmaster2024/static/media/lentilSoup.576dafa2e719f7d45a5a.jpg",
+    "static/media/squash.jpg": "/TSAWebmaster2024/static/media/squash.f43d94af7cfc516161a2.jpg",
+    "static/media/grilledCheese.jpg": "/TSAWebmaster2024/static/media/grilledCheese.d47ec010cb2306bf75c0.jpg",
+    "static/media/Worklog.jpg": "/TSAWebmaster2024/static/media/Worklog.863b5cc48616af442f1f.jpg",
+    "static/media/avocadoToast.jpg": "/TSAWebmaster2024/static/media/avocadoToast.e02cdcdf9705dcb3a03c.jpg",
+    "static/media/waffles.jpg": "/TSAWebmaster2024/static/media/waffles.4bebe7076be20dc92ed1.jpg",
+    "static/media/frenchToast.jpg": "/TSAWebmaster2024/static/media/frenchToast.f7f4a494e543d3d4ab6f.jpg",
+    "static/media/fallBackTopDown.jpg": "/TSAWebmaster2024/static/media/fallBackTopDown.ff920e92d99f8ed38bf8.jpg",
+    "static/media/WorkLog2.jpg": "/TSAWebmaster2024/static/media/WorkLog2.5519aa796e874bac9ce0.jpg",
+    "index.html": "/TSAWebmaster2024/index.html",
+    "main.0ef2d717.css.map": "/TSAWebmaster2024/static/css/main.0ef2d717.css.map",
+    "main.75c99afd.js.map": "/TSAWebmaster2024/static/js/main.75c99afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef2d717.css",
+    "static/js/main.75c99afd.js"
+  ]
+}
