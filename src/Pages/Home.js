@@ -162,7 +162,7 @@ function Home() {
 
           <div class="relative customCarouselSpacing">
             <p class="absolute bottom-0  left-0 m-0 font-custom customStyling bg-black bg-opacity-50 text-white">
-              <div className='pb-1 font-custom2'>The Leafy Spoon MARKETPLACe</div>
+              <div className='pb-1 font-custom2'>Rise and Sprout Cafe</div>
               <div className='text-3xl font-custom2'>CHECKOUT OUR NEWEST RECIPE!</div>
               <div className='pt-3'>
                 <button className='bg-black p-2 rounded-full font-custom2 w-64'>ORDER NOW</button>
@@ -206,11 +206,8 @@ function Home() {
                 <div
                   className="bio-text font-custom pt-8 pl-32 font-thin text-2xl parallaxSpacing"
                 >
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                  labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                  voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+               When eating at Rise and Sprout, you can be rest assured that there will never be a plate with animal meat leaving our kitchen.
+                    It is our promise that everything we serve is locally sourced, fresh, and completely vegetarian.
                   <br />
                   <AnimatedButton />
                 </div>
